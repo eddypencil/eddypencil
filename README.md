@@ -1,22 +1,35 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Welcome!" width="200"/>
-</p>
-
-<h1 align="center">Hi there, I’m Eddy Pencil 👋</h1>
-<p align="center">Creative Developer & Designer | Crafting seamless web & mobile experiences</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/eyad-elasser-b5b44b336" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="32" height="32"/>
+  <a href="https://linkedin.com/in/eyad-elasser-b5b44b336" title="LinkedIn" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+      alt="LinkedIn"
+      width="32" height="32"
+      style="margin: 0 12px; filter: invert(0%);"
+    />
   </a>
   <a href="mailto:Eyadsameh025@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="32" height="32"/>
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+      alt="Email"
+      width="32" height="32"
+      style="margin: 0 12px; filter: invert(0%);"
+    />
   </a>
-  <a href="https://behance.net/eddypencil" title="Behance">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" width="32" height="32"/>
+  <a href="https://behance.net/eddypencil" title="Behance" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/behance.svg"
+      alt="Behance"
+      width="32" height="32"
+      style="margin: 0 12px; filter: invert(0%);"
+    />
   </a>
-  <a href="https://your-portfolio.com" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-🌐?style=flat-square" alt="Portfolio" width="32" height="32"/>
+  <a href="https://your-portfolio.com" title="Portfolio" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetarchive.svg"
+      alt="Portfolio"
+      width="32" height="32"
+      style="margin: 0 12px; filter: invert(0%);"
+    />
   </a>
 </p>
 

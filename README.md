@@ -1,19 +1,12 @@
-<!--
-  Filename: README.md
-  Place this in a repo named exactly "eddypencil" (i.e. github.com/eddypencil/eddypencil)
--->
-
 <p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Welcome!" width="250"/>
+  <img src="https://media.tenor.com/UVhF2Ex8q3kAAAAC/tomuda.gif" alt="Welcome!" width="100%" />
 </p>
 
-# Hi there, I’m Eddy Pencil 👋
+# Hi there, I’m Eddy 👋
 
 <p align="center">
   <!-- Social badges -->
-  <a href="https://twitter.com/eddypencil">
-    <img src="https://img.shields.io/badge/Twitter-@eddypencil-1DA1F2?logo=twitter&style=flat-square" alt="Twitter">
-  </a>
+  
   <a href="https://linkedin.com/in/eddypencil">
     <img src="https://img.shields.io/badge/LinkedIn-eddypencil-0A66C2?logo=linkedin&style=flat-square" alt="LinkedIn">
   </a>
@@ -21,6 +14,20 @@
     <img src="https://img.shields.io/badge/Email-eddypencil@example.com-D14836?logo=gmail&style=flat-square" alt="Email">
   </a>
 </p>
+
+---
+### 🛠️ Tech Stack
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-5C2D91?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 

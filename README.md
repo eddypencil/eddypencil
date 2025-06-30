@@ -1,19 +1,18 @@
 <p align="center">
-  <img src="https://media.tenor.com/UVhF2Ex8q3kAAAAC/tomuda.gif" alt="Welcome!" width="100%" />
+  <img 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc4dmcxY253ZHk2bWU1aTllaWU3eWpwYjd0cGdsdTc1Ymx6YTU5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F8Df20x5o1ZwQ/giphy.gif" 
+    alt="Welcome!" 
+    width="100%" 
+    style="max-height: 200px; object-fit: cover;" 
+  />
 </p>
-
 # Hi there, I’m Eddy 👋
 
-<p align="center">
-  <!-- Social badges -->
-  
-  <a href="https://linkedin.com/in/eddypencil">
-    <img src="https://img.shields.io/badge/LinkedIn-eddypencil-0A66C2?logo=linkedin&style=flat-square" alt="LinkedIn">
-  </a>
-  <a href="mailto:eddypencil@example.com">
-    <img src="https://img.shields.io/badge/Email-eddypencil@example.com-D14836?logo=gmail&style=flat-square" alt="Email">
-  </a>
-</p>
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyad-elasser-b5b44b336/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.Eyadsameh025@gmail.com)
+
+---
 
 ---
 ### 🛠️ Tech Stack
@@ -33,7 +32,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eddypencil&show_icons=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eddypencil)  
-![Yearly Contribution](https://activity-graph.herokuapp.com/graph?username=eddypencil&theme=github)
 
 ---
 

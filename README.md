@@ -38,11 +38,11 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/eddypencil/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddypencil&repo=project-one" alt="Project One" />
+  <a href="https://github.com/eddypencil/E-commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddypencil&repo=E-commerce" alt="E-commerce" />
   </a>
-  <a href="https://github.com/eddypencil/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddypencil&repo=project-two" alt="Project Two" />
+  <a href="https://github.com/eddypencil/Menu_app_with_firebase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddypencil&repo=Menu_app_with_firebase" alt="Menu_app_with_firebase" />
   </a>
 </div>
 

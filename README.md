@@ -5,12 +5,15 @@
 # Hi there, I’m Eddy Pencil 👋
 
 <p align="center">
-  <!-- Social badges -->
-  <a href="https://linkedin.com/in/eyad-elasser-b5b44b336">
-    <img src="https://img.shields.io/badge/LinkedIn-eddypencil-0A66C2?logo=linkedin&style=flat-square" alt="LinkedIn">
+  <!-- LinkedIn Icon -->
+  <a href="https://linkedin.com/in/eyad-elasser-b5b44b336" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" 
+         alt="LinkedIn" width="32" height="32" style="vertical-align: middle;" />
   </a>
-  <a href="mailto:Eyadsameh025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eddypencil@example.com-D14836?logo=gmail&style=flat-square" alt="Email">
+  <!-- Email Icon -->
+  <a href="mailto:Eyadsameh025@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" 
+         alt="Email" width="32" height="32" style="vertical-align: middle;" />
   </a>
 </p>
 
